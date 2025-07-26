@@ -1,6 +1,7 @@
 ### Installation & Runnig Locally
 
-```** # Clone the repo
+```
+# Clone the repo
 git clone https://github.com/Rahul495-hub/Insurance-Prediction-Model.git
 cd Insurance-Prediction-Model
 
